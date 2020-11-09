@@ -1,0 +1,3 @@
+
+This is my first cod on github and im still learning about CSS and HTML and im find way to make my own first line cod.
+And i want to share :) Try you ...
